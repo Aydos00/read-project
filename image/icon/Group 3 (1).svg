@@ -1,0 +1,14 @@
+<svg width="80.000000" height="80.000000" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip5_134">
+			<rect id="chart-bar" width="80.000000" height="80.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="chart-bar" width="80.000000" height="80.000000" fill="#000000" fill-opacity="0"/>
+	<g clip-path="url(#clip5_134)">
+		<path id="Vector" d="M52 50L58 50C59 50 60 49 60 48L60 27C60 26 59 25 58 25L52 25C51 25 50 26 50 27L50 48C50 49 51 50 52 50ZM67 50L73 50C74 50 75 49 75 48L75 12C75 11 74 10 73 10L67 10C66 10 65 11 65 12L65 48C65 49 66 50 67 50ZM22 50L28 50C29 50 30 49 30 48L30 37C30 36 29 35 28 35L22 35C21 35 20 36 20 37L20 48C20 49 21 50 22 50ZM37 50L43 50C44 50 45 49 45 48L45 17C45 16 44 15 43 15L37 15C36 15 35 16 35 17L35 48C35 49 36 50 37 50ZM77.5 60L10 60L10 12.5C10 11.11 8.88 10 7.5 10L2.5 10C1.11 10 0 11.11 0 12.5L0 65C0 67.76 2.23 70 5 70L77.5 70C78.88 70 80 68.88 80 67.5L80 62.5C80 61.11 78.88 60 77.5 60Z" fill="#F86F03" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
